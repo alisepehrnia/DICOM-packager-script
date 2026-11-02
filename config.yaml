@@ -1,0 +1,25 @@
+---
+recompress: true
+compression_jls_error: 3
+imagesExtension: null
+sensitive_tags_keywords:
+  - 'PatientName'
+  - 'PatientID'
+  - 'PatientBirthDate'
+  - 'PatientSex'
+  - 'PatientAge'
+  - 'PatientAddress'
+  - 'PatientTelephoneNumbers'
+  - 'PatientTelecomInformation'
+dump_tags_keywords:
+  - 'StudyDate'
+  - 'StudyTime'
+  - 'Modality'
+  - 'ModalitiesInStudy'
+  - 'StudyDescription'
+  - 'StudyInstanceUID'
+  - 'StudyID'
+pack_folder_name: 'samap_pack'
+pack_extension: 'spack'
+data_extension: 'sml'
+...

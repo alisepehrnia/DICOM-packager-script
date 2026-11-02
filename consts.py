@@ -1,0 +1,1 @@
+processed_dicom_extension = 'sdcm'
